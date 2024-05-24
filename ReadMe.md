@@ -12,7 +12,6 @@ Engenheiro de Biossistemas - USP<br>Ciências de Dados - UNIVESP
 <a href="https://github.com/MaiconBastos">
 <img heigth="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=MaiconBastos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img heigth="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconBastos&layout=compact&langs_count=7&theme=react"/>
-![Snake_animation].(https://github.com/MaiconBastos/MaiconBastos/blob/output/github-contribution-grid-snake.svg).
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MaiconBastos&icon=0&color=0)](https://visitcount.itsvg.in)
