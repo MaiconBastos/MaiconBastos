@@ -1,4 +1,4 @@
-# 💡 Oi !! Eu sou Maicon 👋👋 :
+# 💡 Oi !! Eu sou o Maicon Bastos👋👋 :
 Engenheiro de Biossistemas - USP<br>Ciências de Dados - UNIVESP
 
 
