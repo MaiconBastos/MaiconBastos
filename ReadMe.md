@@ -1,7 +1,7 @@
 # 💡 Oi !! Eu sou o Maicon Bastos👋👋 :
 Engenheiro de Biossistemas - USP<br>Ciências de Dados - UNIVESP
 
-
+![snake gif](https://github.com/MaiconBastos/MaiconBastos/blob/output/github-contribution-grid-snake.gif)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maiconbastos/) 
 
